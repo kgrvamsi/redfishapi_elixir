@@ -1,16 +1,16 @@
-# RedfishapiElixir
+# Redfishapi
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `redfishapi_elixir` to your list of dependencies in `mix.exs`:
+by adding `redfishapi` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:redfishapi_elixir, "~> 0.1.0"}
+    {:redfishapi, "~> 0.1.0"}
   ]
 end
 ```

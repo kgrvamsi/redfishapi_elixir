@@ -1,6 +1,6 @@
-defmodule RedfishapiElixir do
+defmodule Redfishapi do
   @moduledoc """
-  Documentation for RedfishapiElixir.
+  Documentation for Redfishapi.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule RedfishapiElixir do
 
   ## Examples
 
-      iex> RedfishapiElixir.hello()
+      iex> Redfishapi.hello()
       :world
 
   """

@@ -1,8 +1,8 @@
-defmodule RedfishapiElixirTest do
+defmodule RedfishapiTest do
   use ExUnit.Case
-  doctest RedfishapiElixir
+  doctest Redfishapi
 
   test "greets the world" do
-    assert RedfishapiElixir.hello() == :world
+    assert Redfishapi.hello() == :world
   end
 end

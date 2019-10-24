@@ -1,4 +1,4 @@
-defmodule RedfishapiElixir.MixProject do
+defmodule Redfishapi.MixProject do
   use Mix.Project
 
   defp package do
@@ -12,7 +12,7 @@ defmodule RedfishapiElixir.MixProject do
 
   def project do
     [
-      app: :redfishapi_elixir,
+      app: :redfishapi,
       version: "0.1.0",
       elixir: "~> 1.9",
       build_embedded: Mix.env == :prod,
